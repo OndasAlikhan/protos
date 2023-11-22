@@ -1,4 +1,4 @@
-module protos
+module github.com/OndasAlikhan/protos
 
 go 1.21
 
